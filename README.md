@@ -26,7 +26,7 @@ Cylc also supports cycling workflows, going beyond the DAG (directed acyclic gra
 
 Abbreviations and acronyms:
 
-WRF: Weather Research Forecasting model
+WRF: Weather Research And Forecasting model
 WPS: WRF Pre-processing System
 WRF ARW: Weather Research Forecasting Advanced Research WRF
 
