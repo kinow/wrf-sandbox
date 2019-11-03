@@ -38,6 +38,18 @@ The only [HackerNews thread](https://news.ycombinator.com/item?id=19296015) abou
 
 WRF ARW stands for Weather Research and Forecasting (WRF pronounced WORF) Advanced Research WRF (ARW).
 
+#### Installation
+
+There is a [Docker container]() for WRF, but the last commit is from years ago, so I will install the files manually. First, downloaded from http://www2.mmm.ucar.edu/wrf/users/download/get_sources.html:
+
+- WRFV4.0.TAR.gz
+- WPSV4.0.TAR.gz
+
+The page for downloads also includes a link to NOAA's [WRF Portal](https://esrl.noaa.gov/gsd/wrfportal/WRFPortal.html), which appears to support workflow managers.
+
+**(!) It supports batch systems, or Ruby workflow. Maybe we could have Cylc added to the list?**
+
+
 ## References
 
 [1] Wikipedia article on WRF https://en.wikipedia.org/wiki/Weather_Research_and_Forecasting_Model
