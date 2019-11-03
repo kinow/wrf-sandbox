@@ -24,6 +24,12 @@ Cylc also supports cycling workflows, going beyond the DAG (directed acyclic gra
 
 ## Tutorials
 
+Abbreviations and acronyms:
+
+WRF: Weather Research Forecasting model
+WPS: WRF Pre-processing System
+WRF ARW: Weather Research Forecasting Advanced Research WRF
+
 ### WRF ARW tutorial
 
 The only [HackerNews thread](https://news.ycombinator.com/item?id=19296015) about WRF has a comment from a user about running WRF:
@@ -35,8 +41,6 @@ The only [HackerNews thread](https://news.ycombinator.com/item?id=19296015) abou
 >You can use the raw data from the official model runs published by NOAA as initial and boundary conditions for your model runs: https://nomads.ncep.noaa.gov . One of the coolest and most under appreciated things about NOAA is that they publish everything online for free for everyone.
 >
 >Or you can just get the raw data from the official runs from the link above and do your own extraction, and maybe post processing if you like.
-
-WRF ARW stands for Weather Research and Forecasting (WRF pronounced WORF) Advanced Research WRF (ARW).
 
 #### Installation
 
