@@ -37,7 +37,9 @@ WRF-Hydro: WRF Hydrological modeling system
 
 From http://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php. The tutorial includes a lot of useful information. But alas not easy to follow and reproduce with no issues.
 
-This is probably a much better guide for developers using Ubuntu: https://www.enviroware.com/installing-and-running-wrf-3-8-on-linux-ubuntu-lts-16-04-with-intel-i7-8-core-cpu/
+This is probably a much better guide for developers using Ubuntu: https://www.enviroware.com/installing-and-running-wrf-3-8-on-linux-ubuntu-lts-16-04-with-intel-i7-8-core-cpu/.
+
+However, the tutorial for Ubuntu developers does not work for 18.04, only for 16.04. Probably the easiest way is creating a WRF container similar or based on [the existing one](https://github.com/NCAR/container-wrf), though it does not seem to be actively maintainer anymore.
 
 
 ### WRF ARW tutorial
