@@ -28,7 +28,13 @@ Cylc also supports cycling workflows, going beyond the DAG (directed acyclic gra
 
 The only [HackerNews thread](https://news.ycombinator.com/item?id=19296015) about WRF has a comment from a user about running WRF:
 
+>If you want to set up and use the WRF model linked in the submission to generate your own forecasts, you can follow this tutorial: http://www2.mmm.ucar.edu/wrf/OnLineTutorial/index.php
 >
+>For all but the most extreme configurations, WRF will run on a modern 2-4 core Linux desktop. It will be fairly slow, but it will run.
+>
+>You can use the raw data from the official model runs published by NOAA as initial and boundary conditions for your model runs: https://nomads.ncep.noaa.gov . One of the coolest and most under appreciated things about NOAA is that they publish everything online for free for everyone.
+>
+>Or you can just get the raw data from the official runs from the link above and do your own extraction, and maybe post processing if you like.
 
 ## References
 
