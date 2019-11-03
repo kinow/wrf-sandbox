@@ -49,6 +49,10 @@ The page for downloads also includes a link to NOAA's [WRF Portal](https://esrl.
 
 **(!) It supports batch systems, or Ruby workflow. Maybe we could have Cylc added to the list?**
 
+#### Test Data
+
+- http://www2.mmm.ucar.edu/wrf/users/download/test_data.html
+- http://www2.mmm.ucar.edu/wrf/users/download/get_sources_wps_geog.html
 
 ## References
 
