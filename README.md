@@ -33,6 +33,13 @@ WRFDA: WRF Data Assimilation
 WRF-Chem: WRF Amospheric Chemistry model
 WRF-Hydro: WRF Hydrological modeling system
 
+### WRF compilation tutorial
+
+From http://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php. The tutorial includes a lot of useful information. But alas not easy to follow and reproduce with no issues.
+
+This is probably a much better guide for developers using Ubuntu: https://www.enviroware.com/installing-and-running-wrf-3-8-on-linux-ubuntu-lts-16-04-with-intel-i7-8-core-cpu/
+
+
 ### WRF ARW tutorial
 
 The only [HackerNews thread](https://news.ycombinator.com/item?id=19296015) about WRF has a comment from a user about running WRF:
