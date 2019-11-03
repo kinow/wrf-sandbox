@@ -36,6 +36,8 @@ The only [HackerNews thread](https://news.ycombinator.com/item?id=19296015) abou
 >
 >Or you can just get the raw data from the official runs from the link above and do your own extraction, and maybe post processing if you like.
 
+WRF ARW stands for Weather Research and Forecasting (WRF pronounced WORF) Advanced Research WRF (ARW).
+
 ## References
 
 [1] Wikipedia article on WRF https://en.wikipedia.org/wiki/Weather_Research_and_Forecasting_Model
