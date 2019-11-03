@@ -28,7 +28,10 @@ Abbreviations and acronyms:
 
 WRF: Weather Research And Forecasting model
 WPS: WRF Pre-processing System
-WRF ARW: Weather Research Forecasting Advanced Research WRF
+WRF ARW: WRF Advanced Research WRF
+WRFDA: WRF Data Assimilation
+WRF-Chem: WRF Amospheric Chemistry model
+WRF-Hydro: WRF Hydrological modeling system
 
 ### WRF ARW tutorial
 
